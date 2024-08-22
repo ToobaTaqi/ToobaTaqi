@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">, I'm Tooba Taqi</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
-<p align="center"><img  width="50%" align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*eqwKZcLyK6NHAqt0E6_Xqg.gif"></p>
+<p align="center"><img  width="50%" align="center" src="https://lottie.host/embed/52ceae0c-5c2c-4097-a323-6e09ab9b3437/B2hdRXt5xE.json"></p>
 
 <p align="center"> Welcome to my GitHub profile! I'm a passionate developer. My focus is on MERN stack web development, and I'm constantly learning and building projects to hone my skills. When I'm not coding, you'll find me indulging in my hobby of environment drawing, where I love to paint digitally and traditionally. With my love for coding and painting, I'm aiming to pursue a career in programming and create beautiful digital experiences for the world.</p>
 
