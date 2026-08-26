@@ -4,7 +4,25 @@
 
 ### Agentic AI Engineer · Full-Stack Developer
 
-**I build intelligent systems, AI agents, and production-ready web applications.**
+<p>
+  Building intelligent systems, AI agents, and production-ready web applications.
+</p>
+
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=ToobaTaqi&label=PROFILE%20VIEWS&color=0A9ED4&style=flat-square"
+  alt="Profile views"
+/>
+
+<br><br>
+
+<a href="https://github.com/ToobaTaqi">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D8EEFF" />
+</a>
+<a href="https://www.linkedin.com/in/tooba-taqi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A9ED4" />
+</a>
 
 </div>
 
@@ -12,38 +30,47 @@
 
 ## About
 
-I'm a **Full-Stack Developer and Agentic AI Engineer** focused on building intelligent software that connects AI with real-world products and workflows.
+I'm an **Agentic AI Engineer and Full-Stack Developer** focused on building intelligent software that connects AI with real-world products and workflows.
 
-My foundation is in ** full-stack modern web development**, and I'm currently specializing in **agentic AI, LLM-powered systems, backend architecture, and automation**.
+My foundation is in **MERN and modern web development**, while my current focus is **agentic AI, LLM-powered applications, backend systems, and intelligent automation**.
 
-I enjoy taking an idea from **concept → architecture → development → deployment**.
+I enjoy taking ideas from:
 
-```text
-AI Agents        →  LLM-powered systems · intelligent workflows
-Full-Stack       →  MERN · Next.js · React · FastAPI
-Backend          →  Node.js · Express · Python
-AI Engineering   →  APIs · tool calling · orchestration · automation
-```
+**Concept → Architecture → Development → Deployment**
 
 ---
 
 ## What I Build
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### AI Systems
 
-* AI agents and agentic workflows
-* LLM-powered applications
-* AI-assisted business systems
-* Intelligent automation
-* API and tool integrations
+- AI agents
+- Agentic workflows
+- LLM-powered applications
+- Intelligent automation
+- AI API integrations
+- Multi-agent systems
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Full-Stack Applications
 
-* SaaS applications
-* Custom web applications
-* Dashboards and admin panels
-* REST APIs and backend systems
-* AI-powered web platforms
+- SaaS platforms
+- Custom web applications
+- AI-powered dashboards
+- REST APIs
+- Backend systems
+- Business automation tools
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,31 +78,62 @@ AI Engineering   →  APIs · tool calling · orchestration · automation
 
 ### AI & Backend
 
-`Python` · `FastAPI` · `Node.js` · `Express.js` · `REST APIs` · `LLM APIs`
+<p>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=D8EEFF" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=0A9ED4" />
+</p>
 
 ### Frontend
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS`
+<p>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=D8EEFF" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=0A9ED4" />
+</p>
 
 ### Databases
 
-`MongoDB` · `Mongoose` · `PostgreSQL` · `Neon`
+<p>
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/Neon-0D1117?style=flat-square&logo=postgresql&logoColor=0A9ED4" />
+</p>
 
-### AI & Development
+### AI Engineering
 
-`Agentic AI` · `LLM Integration` · `AI Agents` · `Workflow Automation` · `API Integration`
+<p>
+<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=flat-square&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/LLM_Systems-0D1117?style=flat-square&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/Automation-0D1117?style=flat-square&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/API_Integration-0D1117?style=flat-square&logoColor=0A9ED4" />
+</p>
 
 ### Tools
 
-`Git` · `GitHub` · `Figma` · `Adobe Illustrator`
+<p>
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=D8EEFF" />
+<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=0A9ED4" />
+<img src="https://img.shields.io/badge/Illustrator-0D1117?style=flat-square&logo=adobeillustrator&logoColor=0A9ED4" />
+</p>
 
 ---
 
-## Currently Learning
+## Currently Exploring
+
+<p align="center">
 
 `Agentic AI` · `AI Architecture` · `LLM Systems` · `Multi-Agent Systems`
 
-I'm continuously experimenting with new approaches to building reliable AI-powered software.
+</p>
+
+I'm continuously experimenting with new approaches to building reliable and useful AI-powered software.
 
 ---
 
@@ -83,9 +141,17 @@ I'm continuously experimenting with new approaches to building reliable AI-power
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ToobaTaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8EEFF&text_color=6B8FA8&icon_color=0A9ED4" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ToobaTaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8EEFF&text_color=B4DCFF&icon_color=0A9ED4&ring_color=0A9ED4"
+  height="170"
+  alt="Tooba's GitHub stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaTaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8EEFF&text_color=6B8FA8" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaTaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8EEFF&text_color=B4DCFF"
+  height="170"
+  alt="Top languages"
+/>
 
 </div>
 
@@ -95,6 +161,12 @@ I'm continuously experimenting with new approaches to building reliable AI-power
 
 ### Building systems that think, connect, and work.
 
-`Agentic AI Engineer` · `Full-Stack Developer`
+<br>
+
+**Agentic AI Engineer · Full-Stack Developer**
+
+<br>
+
+<sub>AI · Systems · Software</sub>
 
 </div>
