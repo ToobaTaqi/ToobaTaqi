@@ -144,17 +144,19 @@ I'm continuously experimenting with new approaches to building reliable and usef
 
 <div align="center">
 
-<img
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ToobaTaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8EEFF&text_color=B4DCFF&icon_color=0A9ED4&ring_color=0A9ED4" height="170" />
+
+<!-- <img
   src="https://github-readme-stats.vercel.app/api?username=ToobaTaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8EEFF&text_color=B4DCFF&icon_color=0A9ED4&ring_color=0A9ED4"
   height="170"
   alt="Tooba's GitHub stats"
-/>
+/> -->
 
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToobaTaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8EEFF&text_color=B4DCFF"
   height="170"
   alt="Top languages"
-/>
+/> -->
 
 </div>
 
