@@ -29,7 +29,15 @@
 
 <br>
 
-**ABOUT**
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 58">
+  <rect width="1000" height="58" rx="14" fill="#111820" stroke="#0A9ED4" stroke-opacity="0.28"/>
+  <circle cx="26" cy="29" r="4" fill="#0A9ED4"/>
+  <text x="42" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="600" fill="#D8EEFF">About</text>
+</svg>
+
+</div>
 
 I build intelligent software that connects AI with real-world products and workflows. My foundation is in MERN and modern web development; my current focus is **agentic AI, LLM-powered applications, backend systems, and intelligent automation**.
 
@@ -39,7 +47,15 @@ I build intelligent software that connects AI with real-world products and workf
 
 ---
 
-**SERVICES**
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 58">
+  <rect width="1000" height="58" rx="14" fill="#111820" stroke="#0A9ED4" stroke-opacity="0.28"/>
+  <circle cx="26" cy="29" r="4" fill="#0A9ED4"/>
+  <text x="42" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="600" fill="#D8EEFF">Services</text>
+</svg>
+
+</div>
 
 <table>
 <tr>
@@ -73,7 +89,15 @@ I build intelligent software that connects AI with real-world products and workf
 
 ---
 
-**PROCESS**
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 58">
+  <rect width="1000" height="58" rx="14" fill="#111820" stroke="#0A9ED4" stroke-opacity="0.28"/>
+  <circle cx="26" cy="29" r="4" fill="#0A9ED4"/>
+  <text x="42" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="600" fill="#D8EEFF">Process</text>
+</svg>
+
+</div>
 
 <p>
 <img src="https://img.shields.io/badge/01_Discover-111820?style=for-the-badge" />
@@ -84,7 +108,15 @@ I build intelligent software that connects AI with real-world products and workf
 
 ---
 
-**STACK**
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 58">
+  <rect width="1000" height="58" rx="14" fill="#111820" stroke="#0A9ED4" stroke-opacity="0.28"/>
+  <circle cx="26" cy="29" r="4" fill="#0A9ED4"/>
+  <text x="42" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="600" fill="#D8EEFF">Stack</text>
+</svg>
+
+</div>
 
 ### AI & Backend
 
@@ -127,7 +159,15 @@ I build intelligent software that connects AI with real-world products and workf
 
 ---
 
-**CURRENTLY EXPLORING**
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 58">
+  <rect width="1000" height="58" rx="14" fill="#111820" stroke="#0A9ED4" stroke-opacity="0.28"/>
+  <circle cx="26" cy="29" r="4" fill="#0A9ED4"/>
+  <text x="42" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="600" fill="#D8EEFF">Currently exploring</text>
+</svg>
+
+</div>
 
 <p align="center">
 
@@ -139,7 +179,15 @@ Pushing past prototypes into reliable, measurable AI-powered software.
 
 ---
 
-**SIGNAL**
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 58">
+  <rect width="1000" height="58" rx="14" fill="#111820" stroke="#0A9ED4" stroke-opacity="0.28"/>
+  <circle cx="26" cy="29" r="4" fill="#0A9ED4"/>
+  <text x="42" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="600" fill="#D8EEFF">Signal</text>
+</svg>
+
+</div>
 
 <div align="center">
 
@@ -151,7 +199,15 @@ Pushing past prototypes into reliable, measurable AI-powered software.
 
 ---
 
-**CONNECT**
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 58">
+  <rect width="1000" height="58" rx="14" fill="#111820" stroke="#0A9ED4" stroke-opacity="0.28"/>
+  <circle cx="26" cy="29" r="4" fill="#0A9ED4"/>
+  <text x="42" y="36" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="600" fill="#D8EEFF">Connect</text>
+</svg>
+
+</div>
 
 <div align="center">
 
@@ -171,10 +227,19 @@ Pushing past prototypes into reliable, measurable AI-powered software.
 
 <div align="center">
 
-### Building systems that think, connect, and work.
-
-**Agentic AI Engineer · Full-Stack Developer**
-
-<sub>AI · Systems · Software</sub>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 150">
+  <defs>
+    <linearGradient id="gv-foot" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B0F"/>
+      <stop offset="0.35" stop-color="#071828"/>
+      <stop offset="0.72" stop-color="#044470"/>
+      <stop offset="1" stop-color="#035888"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="150" rx="16" fill="url(#gv-foot)"/>
+  <text x="500" y="64" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="600" fill="#D8EEFF">Building systems that think, connect, and work.</text>
+  <text x="500" y="96" text-anchor="middle" font-size="15" fill="#0A9ED4">AGENTIC AI ENGINEER · FULL-STACK DEVELOPER</text>
+  <text x="500" y="120" text-anchor="middle" font-size="14" fill="#B4DCFF" opacity="0.7">AI · Systems · Software</text>
+</svg>
 
 </div>
